@@ -1,4 +1,4 @@
-# Python generated files
+# Python
 __pycache__/
 *.py[cod]
 
@@ -7,20 +7,21 @@ venv/
 .venv/
 env/
 
-# IDE files
+# IDE
 .idea/
 .vscode/
 
-# Environment variables and secrets
+# Local deployment dependencies
+deployment/
+
+# Secrets
 .env
 .env.*
+.aws/
 *.pem
 *.key
 
-# AWS credentials/config
-.aws/
-
-# PyTorch model weights
+# Model weights
 *.pth
 *.pt
 *.ckpt
@@ -28,9 +29,6 @@ env/
 # Generated outputs
 response.json
 
-# Logs
-*.log
-
-# OS files
+# OS
 .DS_Store
 Thumbs.db
