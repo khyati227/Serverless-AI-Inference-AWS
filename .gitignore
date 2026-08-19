@@ -1,25 +1,36 @@
-# Python
+# Python generated files
 __pycache__/
-*.pyc
-.venv/
-venv/
+*.py[cod]
 
-# Environment variables / secrets
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables and secrets
 .env
 .env.*
-
-# AWS credentials
-.aws/
 *.pem
+*.key
+
+# AWS credentials/config
+.aws/
+
+# PyTorch model weights
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs
+response.json
+
+# Logs
+*.log
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-# Large model files
-*.pth
-*.pt
