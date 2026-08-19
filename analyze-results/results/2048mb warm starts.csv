@@ -1,0 +1,21 @@
+@timestamp,@message,latency_ms,billed_ms,memory_size_mb,memory_used_mb
+2026-08-05 18:27:54.563,"REPORT RequestId: 9b9d6f7f-f789-4fa5-840e-85865bba8fac	Duration: 90.53 ms	Billed Duration: 91 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",90.53,91,2048,537
+2026-08-05 18:27:44.932,"REPORT RequestId: 8b14d385-2256-4a92-a273-b2961586518e	Duration: 83.49 ms	Billed Duration: 84 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",83.49,84,2048,537
+2026-08-05 18:27:30.908,"REPORT RequestId: 7a65f011-3ed6-4ffb-882b-23ac038c551b	Duration: 84.11 ms	Billed Duration: 85 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",84.11,85,2048,537
+2026-08-05 18:27:18.932,"REPORT RequestId: b78d4b45-7416-4d41-a732-8b23a16fcc06	Duration: 115.40 ms	Billed Duration: 116 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",115.40,116,2048,537
+2026-08-05 18:27:09.332,"REPORT RequestId: 10c33657-9a49-4d6b-ada9-58913ebbb383	Duration: 84.01 ms	Billed Duration: 85 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",84.01,85,2048,537
+2026-08-05 18:26:59.084,"REPORT RequestId: a48b728f-5cce-4d0e-80e7-9a19b1248adf	Duration: 89.17 ms	Billed Duration: 90 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",89.17,90,2048,537
+2026-08-05 18:26:49.923,"REPORT RequestId: 4640076e-483f-4518-afc6-0b9f9953f3b0	Duration: 91.49 ms	Billed Duration: 92 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",91.49,92,2048,537
+2026-08-05 18:26:40.233,"REPORT RequestId: 53f173a3-c07a-4245-bcd3-2b84edd78458	Duration: 84.19 ms	Billed Duration: 85 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",84.19,85,2048,537
+2026-08-05 18:26:29.967,"REPORT RequestId: e4f6bec0-6135-4350-be61-e45672ab1430	Duration: 87.15 ms	Billed Duration: 88 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",87.15,88,2048,537
+2026-08-05 18:26:09.148,"REPORT RequestId: 5415cb51-dfa0-45c1-9b01-dc57dcd82596	Duration: 83.71 ms	Billed Duration: 84 ms	Memory Size: 2048 MB	Max Memory Used: 537 MB	
+",83.71,84,2048,537

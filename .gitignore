@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Local deployment dependencies
+deployment/
+
+# Secrets
+.env
+.env.*
+.aws/
+*.pem
+*.key
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Generated outputs
+response.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Duplicate/generated result files
+analyze-results/extracted_results/
+analyze-results/results.zip
